@@ -36,6 +36,10 @@ Then type:
 npm start
 From the browser navigate to http://localhost:3000/ to see the app in action.
 
+# Screenshot
+
+[[https://github.com/debikadutt/Retrieve_Tumblr_Posts/blob/master/php-src/project1.JPG]]
+
 # Built With
 •	Sublime Text
 •	Visual Studio Code
